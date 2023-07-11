@@ -1,0 +1,18 @@
+body{
+    width:250px;
+    height:250px;
+    background-color: rgb(164, 220, 238);
+    display:flex;
+    justify-content:center;
+}
+
+p{
+    display: inline-flex;
+    margin:auto 10px;
+    font-size: 22px;
+    color: darkblue;
+    border-radius: 10px;
+    border: 1px solid darkblue;
+    padding :10px;
+    font-weight: 400;
+}
